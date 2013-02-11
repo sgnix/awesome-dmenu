@@ -3,8 +3,7 @@ Native dmenu for the Awesome window manager
 ===========================================
 
 The dmenu tool that comes with Linux is great, but using in within the Awesome window manager is cumbersome.
-
-This is where dmenu.lua comes handy. It does 99% of what dmenu does, and it also plays well with Awesome's rc.lua. In other words, you can select and item from a predefined list of items, and then span a process, or run a callback function.
+This is where _dmenu.lua_ comes handy. It does 99% of what dmenu does, but it plays well with Awesome's rc.lua. In other words, you can select an item from a predefined list of items, then spawn a process or run a callback function.
 
 Usage
 -----
