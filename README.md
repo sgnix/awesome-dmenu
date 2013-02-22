@@ -28,7 +28,7 @@ In rc.lua:
 
         ...
 
-        mywibox:set_widget(mydmenu)
+        mywibox:set_widget(mydmenu.textbox)
 
         ...
 

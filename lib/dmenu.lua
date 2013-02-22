@@ -1,3 +1,10 @@
+---------------------------------------------------------------------------
+-- Native dmenu for the Awesome window manager.
+-- Written by Stefan G. (naturalist@github)
+-- License: Fork the shit out of this, and do whatever
+-- the fuck you want with it.
+---------------------------------------------------------------------------
+
 local awful = require("awful")
 local textbox = require("wibox.widget.textbox")
 local keygrabber = require("awful.keygrabber")
