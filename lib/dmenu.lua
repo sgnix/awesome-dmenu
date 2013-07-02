@@ -1,8 +1,7 @@
 ---------------------------------------------------------------------------
 -- Native dmenu for the Awesome window manager.
 -- Written by Stefan G. (naturalist@github)
--- License: Fork the shit out of this, and do whatever
--- the fuck you want with it.
+-- License: BSD
 ---------------------------------------------------------------------------
 
 local awful = require("awful")
